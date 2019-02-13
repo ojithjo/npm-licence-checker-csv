@@ -30,7 +30,6 @@ libs={
     "zone.js": "0.8.14"
  
   }
-
 c = open('csvfile.csv','w')
 c.write('component name,version,url,license,description of how it is used\n') #Give your csv text here.
 ## Python will convert \n to os.linesep
